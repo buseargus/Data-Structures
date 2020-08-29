@@ -64,5 +64,5 @@ public class InfixToPostfix {
             default:
                 return 0;
         }
-    }
+    } 
 }
